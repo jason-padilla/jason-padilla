@@ -1,9 +1,10 @@
 ## Hi 👋, I'm Jason
 ### About Me
 
-:pencil: Education: University of California, Irvine Zot!Zot!Zot <br>
-:star: Favorite language: :snake: Python <br>
-:mailbox: Reach me at: <a href="mailto:jpadill3@uci.edu">jpadill3@uci.edu</a>
+:pencil2:&nbsp; Education: University of California, Irvine Zot!Zot!Zot! <br>
+:star:&nbsp; Favorite language: Python :snake:  <br>
+:house:&nbsp; Location: Orange County, CA <br><br>
+:email:&nbsp; Reach me at: <a href="mailto:jpadill3@uci.edu">jpadill3@uci.edu</a>
 
 
 ### Languages
