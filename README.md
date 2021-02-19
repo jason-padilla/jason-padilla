@@ -4,7 +4,7 @@
 :pencil2:&nbsp; Education: University of California, Irvine Zot!Zot!Zot! <br>
 :star:&nbsp; Favorite language: Python :snake:  <br>
 :house:&nbsp; Location: Orange County, CA<br>
-:email: Reach me at: <a href="mailto:jpadill3@uci.edu">jpadill3@uci.edu</a>
+:email:&nbsp; Reach me at: <a href="mailto:jpadill3@uci.edu">jpadill3@uci.edu</a>
 
 
 ### Languages
