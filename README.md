@@ -1,7 +1,7 @@
 ## Hi 👋, I'm Jason
 ### About Me
 
-:pencil2:&nbsp; Education: University of California, Irvine Zot!Zot!Zot! <br>
+:pencil2:&nbsp; Education: University of California, Irvine <br>
 :star:&nbsp; Favorite language: Python :snake:  <br>
 :house:&nbsp; Location: Orange County, CA<br>
 :email:&nbsp; Reach me at: <a href="mailto:jasonpdla@gmail.com">jasonpdla@gmail.com</a>
