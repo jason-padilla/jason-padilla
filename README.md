@@ -10,8 +10,8 @@
 ### Languages
 
 ![Python](https://img.shields.io/badge/-Python-1b1e26?style=for-the-badge&logo=python)
-![JavaScript](https://img.shields.io/badge/-JavaScript-1b1e26?style=for-the-badge&logo=javascript)
 ![C++](https://img.shields.io/badge/-C++-1b1e26?style=for-the-badge&logo=C%2B%2B&logoColor=green)
+![JavaScript](https://img.shields.io/badge/-JavaScript-1b1e26?style=for-the-badge&logo=javascript)
 ![HTML5](https://img.shields.io/badge/-HTML5-1b1e26?style=for-the-badge&logo=HTML5)
 ![CSS3](https://img.shields.io/badge/-CSS3-1b1e26?style=for-the-badge&logo=CSS3&logoColor=9cf)
 ![MySQL](https://img.shields.io/badge/-MySQL-1b1e26?style=for-the-badge&logo=MySQL&logoColor=FFFFFF)
