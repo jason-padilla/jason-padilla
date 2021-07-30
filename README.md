@@ -18,8 +18,9 @@
 
 ### Libraries and Frameworks
 
-![Flask](https://img.shields.io/badge/-Flask-1b1e26?style=for-the-badge&logo=Flask&logoColor=FFFFFF)
-![Django](https://img.shields.io/badge/-Django-1b1e26?style=for-the-badge&logo=Django&logoColor=FFFFFF)
+![Django](https://img.shields.io/badge/-Django-1b1e26?style=for-the-badge&logo=Django&logoColor=215E4B)
+![React](https://img.shields.io/badge/-React-1b1e26?style=for-the-badge&logo=React&logoColor=5FE3F2)
+![Flask](https://img.shields.io/badge/-Flask-1b1e26?style=for-the-badge&logo=Flask&logoColor=FF5F57)
 ![jQuery](https://img.shields.io/badge/-jQuery-1b1e26?style=for-the-badge&logo=jquery&logoColor=007ACC)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-1b1e26?style=for-the-badge&logo=Bootstrap&logoColor=563D7C)
 
